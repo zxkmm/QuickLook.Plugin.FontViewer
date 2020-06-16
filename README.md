@@ -33,4 +33,4 @@ A plugin for pre-viewing fonts in QuickLook: https://github.com/xupefei/QuickLoo
 3. Click the “Install” button in the popup window.
 4. Restart QuickLook.
 
-[1]:https://github.com/jeremyhart/QuickLook.Plugin.FontViewer/releases
+[1]:https://github.com/zxkmm/QuickLook.Plugin.FontViewer/releases
