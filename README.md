@@ -14,8 +14,8 @@ A plugin for pre-viewing fonts in QuickLook: https://github.com/xupefei/QuickLoo
 ### 魔改FAQ
  Q1：我不喜欢海德格尔说的那句话<br>
  Q1:I do not like the preview sentence.<br>
- A1：如果您需要修改预览的中文语句，请在&TODO&中修改。<br>
- A1:If you need to change the statement that showed in the window, please edit&TODO&.<br>
+ A1：如果您需要修改预览的中文语句，请在Translations.config中修改。<br>
+ A1:If you need to change the statement that showed in the window, please edit Translations.config.<br>
  Q2：魔改版和原版可以共存吗？<br>
  Q2：Can the mod ver coexist with the org verison?<br>
  A2:他们都指向同样的字体文件扩展名，所以不行。<br>
