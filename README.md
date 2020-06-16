@@ -5,7 +5,7 @@
 
 A plugin for pre-viewing fonts in QuickLook: https://github.com/xupefei/QuickLook  
 
-![demo screenshot](/img/demo.jpg)
+![demo screenshot](/img/demo.png)
 
 ### 魔改内容
  增加中文语句和字符的预览。<br>
